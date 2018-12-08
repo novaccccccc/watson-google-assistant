@@ -42,7 +42,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 1. [Talk to it!](#talk-to-it)
 
 ## Deploy to IBM Cloud
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-google-assistant.git)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/novaccccccc/watson-google-assistant.git)
 
 1. Press the above `Deploy to IBM Cloud` button and then click on `Deploy`.
 
