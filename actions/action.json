@@ -5,7 +5,7 @@
       "description": "Watson Assistant for Google Assistant",
       "name": "MAIN",
       "fulfillment": {
-        "conversationName": "Watson"
+        "conversationName": "Nova"
       },
       "intent": {
         "name": "actions.intent.MAIN",
